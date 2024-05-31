@@ -1,1 +1,1 @@
-# Self-WateringPlant
+This is my Self-Watering Plant Project!
